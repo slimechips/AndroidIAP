@@ -4,11 +4,11 @@
 This Github repository contains code snippets and resources required for the Android IAP. The sample Android Projects with comments will be uploaded into the folders under their respective days. You may download and open them with Android Studio or IntelliJ IDEA to explore the project.
 
 ## Workshop Decks
-| Day   | Deck          | Notes         |
-| ---   | ---           | ---           |
+| Day   | Deck          | Notes         | Dark Mode Notes |
+| ---   | ---           | ---           | --- |
 | 0     | [Day 0 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/ETnjSbngMpxFuZTlwzIptMoBi885926cFoBku5uvBl2xag?e=kuCaxQ)
 | 1     | [Day 1 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/EdJnTSsJTgVPkqcIPd4AUK8BbG9D2ff6WfdDtHByhnRftA?e=2trb7j)   | [Day 1 Notes](notes/day1_notes.pdf)   |
-| 2     | Coming Soon   |
+| 2     | [Day 2 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/EXweZT4Q2jhOkUYaKvYKh1MBMJzlqjLth6zdR4SadPmmPQ?e=Cl0TV9)   | [Day 2 Notes](notes/day2_notes.pdf) | [Day 2 Notes Dark](notes/day2_notes_dark.pdf)|
 | 3     | Coming Soon   |
 
 ## Useful Resources

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CategoryActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/chicken_rice_stall_card"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="#E4E4E4"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/chicken_rice_stall_img"
+                    android:layout_width="320dp"
+                    android:layout_height="230dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/chicken_rice_stall" />
+
+                <TextView
+                    android:id="@+id/chicken_rice_stall_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Chicken Rice Stall"
+                    android:textSize="36sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/western_stall_card"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="#E4E4E4"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/western_stall_img"
+                    android:layout_width="320dp"
+                    android:layout_height="230dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/western_stall" />
+
+                <TextView
+                    android:id="@+id/wester_stall_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Western Stall"
+                    android:textSize="36sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/japanese_stall_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="#E4E4E4"
+            app:cardCornerRadius="18dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/japanese_stall_img"
+                    android:layout_width="320dp"
+                    android:layout_height="230dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/japanese_stall" />
+
+                <TextView
+                    android:id="@+id/japanese_stall_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Japanese Stall"
+                    android:textSize="36sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>
