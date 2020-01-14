@@ -9,7 +9,7 @@ This Github repository contains code snippets and resources required for the And
 | 0     | [Day 0 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/ETnjSbngMpxFuZTlwzIptMoBi885926cFoBku5uvBl2xag?e=kuCaxQ)
 | 1     | [Day 1 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/EdJnTSsJTgVPkqcIPd4AUK8BbG9D2ff6WfdDtHByhnRftA?e=2trb7j)   | [Day 1 Notes](notes/day1_notes.pdf)   |
 | 2     | [Day 2 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/EXweZT4Q2jhOkUYaKvYKh1MBMJzlqjLth6zdR4SadPmmPQ?e=Cl0TV9)   | [Day 2 Notes](notes/day2_notes.pdf) | [Day 2 Notes Dark](notes/day2_notes_dark.pdf)|
-| 3     | Coming Soon   |
+| 3     | [Day 3 Deck](https://sutdapac-my.sharepoint.com/:p:/g/personal/jason_chow_mymail_sutd_edu_sg/ETomZpYwZoBGtbBv3QxlIrIBc9WVbpJv78WPzpztZHSFHw?e=YAgzSA)   |    [Day 3 Notes](notes/day3_notes.pdf) | [Day 3 Notes Dark](notes/day3_notes_dark.pdf) |
 
 ## Useful Resources
 [Android Docs](https://developer.android.com/guide)
